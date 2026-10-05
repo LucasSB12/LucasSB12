@@ -119,11 +119,12 @@ Meu objetivo é futuramente trabalhar profissionalmente com
   >
 </a>
 
-<a href="https://github.com/LucasSB12">
+<a href="https://git.io/streak-stats">
   <img
+    src="https://streak-stats.demolab.com/?user=LucasSB12&theme=highcontrast&hide_border=true"
+    alt="GitHub Streak"
     height="170"
-    src="https://streak-stats.demolab.com?user=LucasSB12&theme=github-dark-blue&hide_border=true"
-  >
+  />
 </a>
 
 </div>

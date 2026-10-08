@@ -64,7 +64,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e tenho interesse em programaç
 - 🎓 Técnico em Desenvolvimento de Sistemas — SENAI
 - 👻 Me encontre no [GitHub](https://github.com/LucasSB12)
 
-<br>
+
 
 <table>
   <tr>
